@@ -3,16 +3,16 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Creating Virtual Machines in the Cloud](https://github.com/joshuaheck1/vm-creation)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
-  - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Creating Virtual Machines in the Cloud](https://github.com/jayskano/vm-creation)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jayskano/azure-network-protocols)
+  - [Configuring Active Directory within Azure VMs](https://github.com/jayskano/configure-ad)
 - <b>Active Directory</b>
-  - [AD Deployment and Configuration](https://github.com/joshuaheck1/ad-deployment)
-  - [Creating Users and Group Policy Objects for AD](https://github.com/joshuaheck1/users-group-policy)
+  - [AD Deployment and Configuration](https://github.com/jayskano/ad-deployment)
+  - [Creating Users and Group Policy Objects for AD](https://github.com/jayskano/users-group-policy)
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Prerequisites and Installation](https://github.com/jayskano/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/jayskano/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/jayskano/ticket-lifecycle)
 
 
 <h2>🤳Connect with me:</h2>
