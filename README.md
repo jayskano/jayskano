@@ -5,7 +5,7 @@
 - <b>Microsoft Azure</b>
   - [Creating Virtual Machines in the Cloud](https://github.com/jayskano/vm-creation)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jayskano/azure-network-protocols)
-  - [Preparing Active Directory Infrastrucutre in the Cloud](https://github.com/jayskano/ad-deployment)
+  - [Preparing Active Directory Infrastrucutre in the Cloud](https://github.com/jayskano/ad-infrastructure)
 - <b>Active Directory</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/jayskano/configure-ad)
   - [Creating Users and Group Policy Objects for AD](https://github.com/jayskano/users-group-policy)
