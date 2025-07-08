@@ -5,9 +5,9 @@
 - <b>Microsoft Azure</b>
   - [Creating Virtual Machines in the Cloud](https://github.com/jayskano/vm-creation)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jayskano/azure-network-protocols)
-  - [Configuring Active Directory within Azure VMs](https://github.com/jayskano/configure-ad)
+  - [Preparing Active Directory Infrastrucutre in the Cloud](https://github.com/jayskano/ad-deployment)
 - <b>Active Directory</b>
-  - [AD Deployment and Configuration](https://github.com/jayskano/ad-deployment)
+  - [Configuring Active Directory within Azure VMs](https://github.com/jayskano/configure-ad)
   - [Creating Users and Group Policy Objects for AD](https://github.com/jayskano/users-group-policy)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/jayskano/osticket-prereqs)
