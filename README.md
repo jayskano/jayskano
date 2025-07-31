@@ -10,7 +10,7 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/jayskano/configure-ad)
   - [Group Policy and Managing Accounts in Active Directory](https://github.com/jayskano/users-group-policy)
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Configuration and Setup](https://github.com/jayskano/post-install-config)
+  - [osTicket: Setup and Configuration](https://github.com/jayskano/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jayskano/ticket-lifecycle)
 
 
