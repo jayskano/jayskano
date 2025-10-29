@@ -1,17 +1,14 @@
-<h1>Hi, I'm Jayden, an aspiring <a href="https://www.linkedin.com/in/jayden-skanes/">IT Professional</a></h1>
+<h1>Hi, I'm Jayden, an <a href="https://www.linkedin.com/in/jayden-skanes/">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
   - [Creating Virtual Machines in the Cloud](https://github.com/jayskano/vm-creation)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jayskano/azure-network-protocols)
-  - [Preparing Active Directory Infrastructure in the Cloud](https://github.com/jayskano/ad-infrastructure)
 - <b>Active Directory</b>
+  - [Preparing Active Directory Infrastructure in the Cloud](https://github.com/jayskano/ad-infrastructure)
   - [Configuring Active Directory within Azure VMs](https://github.com/jayskano/configure-ad)
   - [Group Policy and Managing Accounts in Active Directory](https://github.com/jayskano/users-group-policy)
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Post-Install Setup and Configuration](https://github.com/jayskano/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/jayskano/ticket-lifecycle)
 
 
 <h2>🤳Connect with me:</h2>
